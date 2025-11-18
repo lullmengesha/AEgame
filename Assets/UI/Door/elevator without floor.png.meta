@@ -1,0 +1,613 @@
+fileFormatVersion: 2
+guid: 45b60ed6b97b05c438aa80c33b5af9ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8769566395193500441
+    second: elevator without floor_0
+  - first:
+      213: 7758472176573519435
+    second: elevator without floor_1
+  - first:
+      213: 9174360915118634259
+    second: elevator without floor_2
+  - first:
+      213: -767095323780637928
+    second: elevator without floor_3
+  - first:
+      213: -8579218729941030228
+    second: elevator without floor_4
+  - first:
+      213: -1954967019035572943
+    second: elevator without floor_5
+  - first:
+      213: 8603124516682578316
+    second: elevator without floor_6
+  - first:
+      213: 975969997756559793
+    second: elevator without floor_7
+  - first:
+      213: -4850185944334342100
+    second: elevator without floor_8
+  - first:
+      213: 442672199325243670
+    second: elevator without floor_9
+  - first:
+      213: -3327914295798628262
+    second: elevator without floor_10
+  - first:
+      213: 6149606540145861636
+    second: elevator without floor_11
+  - first:
+      213: 7366921084819396086
+    second: elevator without floor_12
+  - first:
+      213: -6263494676380106125
+    second: elevator without floor_13
+  - first:
+      213: -3272109562474982124
+    second: elevator without floor_14
+  - first:
+      213: -8622752440853575490
+    second: elevator without floor_15
+  - first:
+      213: -5441400209361150969
+    second: elevator without floor_16
+  - first:
+      213: -776183611592174788
+    second: elevator without floor_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elevator without floor_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 810
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecd944a3dd3c4680800000000000000
+      internalID: -8769566395193500441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_1
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 810
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b469a64a651abab60800000000000000
+      internalID: 7758472176573519435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 811
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315bfdaf4a0e15f70800000000000000
+      internalID: 9174360915118634259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_3
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 811
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b11350edaba55f0800000000000000
+      internalID: -767095323780637928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_4
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 811
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaac7f050e70f880800000000000000
+      internalID: -8579218729941030228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_5
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 811
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135c7c2aadf8ed4e0800000000000000
+      internalID: -1954967019035572943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 560
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b157aa20746770800000000000000
+      internalID: 8603124516682578316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 560
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f7b3ca875b8d00800000000000000
+      internalID: 975969997756559793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 561
+        width: 288
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28eb5db49da0bcb0800000000000000
+      internalID: -4850185944334342100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_9
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 561
+        width: 288
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d8b81500b42600800000000000000
+      internalID: 442672199325243670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_10
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 560
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a508afb749fd0d1d0800000000000000
+      internalID: -3327914295798628262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_11
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 561
+        width: 288
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40420d5f09ac75550800000000000000
+      internalID: 6149606540145861636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 310
+        width: 288
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5defce1bf8c3660800000000000000
+      internalID: 7366921084819396086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 310
+        width: 288
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37240d9f6c89319a0800000000000000
+      internalID: -6263494676380106125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 310
+        width: 288
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415158670b12792d0800000000000000
+      internalID: -3272109562474982124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_15
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 310
+        width: 288
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb84ac02754d55880800000000000000
+      internalID: -8622752440853575490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_16
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 310
+        width: 288
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cda40e6534c74b0800000000000000
+      internalID: -5441400209361150969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elevator without floor_17
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 310
+        width: 288
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33919e1e117a35f0800000000000000
+      internalID: -776183611592174788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e883cf6023a28c9479b05dc7ec8c73d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      elevator without floor_0: -8769566395193500441
+      elevator without floor_1: 7758472176573519435
+      elevator without floor_10: -3327914295798628262
+      elevator without floor_11: 6149606540145861636
+      elevator without floor_12: 7366921084819396086
+      elevator without floor_13: -6263494676380106125
+      elevator without floor_14: -3272109562474982124
+      elevator without floor_15: -8622752440853575490
+      elevator without floor_16: -5441400209361150969
+      elevator without floor_17: -776183611592174788
+      elevator without floor_2: 9174360915118634259
+      elevator without floor_3: -767095323780637928
+      elevator without floor_4: -8579218729941030228
+      elevator without floor_5: -1954967019035572943
+      elevator without floor_6: 8603124516682578316
+      elevator without floor_7: 975969997756559793
+      elevator without floor_8: -4850185944334342100
+      elevator without floor_9: 442672199325243670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
